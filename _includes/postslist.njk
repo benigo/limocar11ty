@@ -1,5 +1,5 @@
 {% include "widgets/info.njk" %}
-<div class="row justify-content-center">
+<div class="row justify-content-center"><kbd>_include/postslist.njk</kbd>
 {% for post in postslist | reverse %}
   <div class="col-md-4 p-3">
     <a href="{{ post.url | url }}" title="{{metadata.title}} {{ post.data.title }}" class="p-3">
