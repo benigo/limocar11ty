@@ -27,7 +27,7 @@ tags:
   - sveltekit
 layout: layouts/post.njk
 cover: /img/mobileweb.svg
-btn: https://www.fiverr.com/creativitas/create-mobile-website-design-for-you-with-single-page-app
+btn: https://beni.website
 ---
 
 We realize that nowadays many internet users are using their smartphones, so building and designing websites specifically for mobile smartphones will provide a better experience, visitors to your [limousine car mobile website]({{page.url}}), will find it easier to access information, with a special mobile UI, access your site is like using a mobile application.
