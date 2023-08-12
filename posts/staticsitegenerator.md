@@ -21,7 +21,7 @@ tags:
   - 11ty
 layout: layouts/post.njk
 cover: /img/staticsitegenerator.svg
-btn: https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll
+btn: https://beni.website
 ---
 
 Enhance your site with a static site generator for speed, stability and full power to support SEO and performance of your [limousine car website]({{page.url}}) with SSG.
