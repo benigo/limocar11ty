@@ -24,7 +24,7 @@ tags:
   - svelte
 layout: layouts/post.njk
 cover: /img/singlepageapp.svg
-btn: https://www.fiverr.com/creativitas/create-your-website-with-new-technology
+btn: https://beni.website
 ---
 
 The era of technology development with single page applications has reached its peak, and now many sites are switching to using it, and it is the main choice for developers when they need to create projects using this single page application.
