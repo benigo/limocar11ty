@@ -19,7 +19,7 @@ tags:
   - pico
 layout: layouts/post.njk
 cover: /img/flatfile.svg
-btn: https://www.fiverr.com/creativitas/design-your-website-with-phyton-django
+btn: https://beni.website
 ---
 
 The best alternative to using flatfile technology to create super fast [limousine car websites]({{page.url}}) without a database connection, like a static site generator , flatfile cms gives you experience about working with fast websites in its use.
