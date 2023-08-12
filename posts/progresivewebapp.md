@@ -20,7 +20,7 @@ tags:
   - svelte
 layout: layouts/post.njk
 cover: /img/progresivewebapp.svg
-btn: https://www.fiverr.com/creativitas/design-your-website-with-progresive-web-application
+btn: https://beni.website
 ---
 
 If you need to build a website that allows it to be installed on customers' devices, then using a progressive web application is the right choice for you.
