@@ -18,7 +18,7 @@ tags:
   - design
 layout: layouts/post.njk
 cover: /img/headlesscms.svg
-btn: https://www.fiverr.com/creativitas/design-modern-headless-online-shop-ecommerce-website
+btn: https://beni.website
 ---
 
 The need to work with content management systems in the modern era, so using a headless CMS is the most suitable solution for you.
