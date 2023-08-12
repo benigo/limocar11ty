@@ -1,7 +1,7 @@
 {% include "widgets/info.njk" %}
 <div class="row justify-content-center"><code>_include/postslist.njk</code>
 {% for post in postslist | reverse %}
-  <div class="col-md-4 p-3">
+  <div class="col-md-4 p-3" data-aos="fade-up">
     <a href="{{ post.url | url }}" title="{{metadata.title}} {{ post.data.title }}" class="p-3">
     {% if post.data.cover %}<img class="img-fluid cover" width="100%" height="100%" alt="{{metadata.title}} {{ post.data.title }}" loading="lazy" src="{{ post.data.cover }}"/>{% endif %}
     <div class="p-3">
